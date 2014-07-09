@@ -1,4 +1,0 @@
-wesleysmyth.github.io
-=====================
-
-Octopress!
