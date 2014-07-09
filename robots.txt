@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://wesleysmyth.github.io/sitemap.xml 
